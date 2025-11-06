@@ -2,7 +2,7 @@
 
 ## Overview
 
-Official code of "Popularity-Aware Alignment and Contrast for Mitigating Popularity Bias" (2024 KDD ID:848)
+Official code of "Graph-Structured Driven Dual Adaptation for Mitigating Popularity Bias“
 
 ## Requirements
 
